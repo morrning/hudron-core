@@ -1,0 +1,10 @@
+{
+    "db":{
+        "driver":"mysql",
+        "user": "root",
+        "pass": "@@babaK2405",
+        "db": "hrdn",
+        "database": "hrdn"
+    }
+
+}
