@@ -5,6 +5,10 @@
         "pass": "@@babaK2405",
         "db": "hrdn",
         "database": "hrdn"
+    },
+    "rpc": {
+        "user" : "user",
+        "pass" : "pass"
     }
 
 }

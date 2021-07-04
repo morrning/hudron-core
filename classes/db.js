@@ -12,7 +12,6 @@ module.exports = class db {
 
         this.con.connect(function(err) {
             if (err) throw err;
-            console.log("Connected!");
         });
     }
 
